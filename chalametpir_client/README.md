@@ -18,7 +18,7 @@ Key components:
 Add these dependencies to your `Cargo.toml`:
 
 ```toml
-chalametpir_client = "=0.7.0"
+chalametpir_client = "=0.8.0"
 ```
 
 ```rust

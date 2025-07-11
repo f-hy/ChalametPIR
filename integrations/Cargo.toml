@@ -1,13 +1,13 @@
 [package]
 name = "chalametpir_integrations"
-version = "0.7.0"
+version = "0.8.0"
 edition = "2024"
 resolver = "3"
 rust-version = "1.85.0"
 authors = ["Anjan Roy <hello@itzmeanjan.in>"]
 description = "Integration tests, benchmarks and examples for ChalametPIR"
 repository = "https://github.com/itzmeanjan/ChalametPIR.git"
-license = "MPL-2.0"
+license = "BSD-3-Clause"
 publish = false
 
 [dev-dependencies]
